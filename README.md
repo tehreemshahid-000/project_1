@@ -21,8 +21,5 @@ This project is a static landing page built using **HTML** and **CSS**. It serve
 ## Contributions  
 This project is for personal practice, but feedback and suggestions are welcome. If you find any issues or have recommendations, feel free to open an **Issue** or submit a **Pull Request**.  
 
-## License  
-This project is open-source and available under the [MIT License](LICENSE).  
-
 ---  
 **Thank you for checking out this project!** 🚀
